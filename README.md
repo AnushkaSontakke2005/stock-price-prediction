@@ -5,7 +5,8 @@ It allows users to visualize historical stock trends and predict future stock pr
 
 ---
 
-🚀 **Live Demo:** [Click here to view the Streamlit App]([https://stock-price-prediction-xxxxx.streamlit.app](https://stock-price-prediction-hga4xr6ul7uzznxll83dti.streamlit.app/))
+🚀 **Live Demo:** [Click here to view the Streamlit App] ([https://stock-price-prediction-xxxxx.streamlit.app](https://stock-price-prediction-hga4xr6ul7uzznxll83dti.streamlit.app/))
+
 ## 🚀 Features
 
 - 📅 Select any **Start Date** and **End Date** for stock data
