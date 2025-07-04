@@ -37,7 +37,8 @@ It allows users to visualize historical stock trends and predict future stock pr
    git clone https://github.com/AnushkaSontakke2005/stock-price-prediction.git
    cd stock-price-prediction
 
-2.Install Dependencies 
+2.Install Dependencies:
 pip install -r requirements.txt
 
-3.Run the Streamlit app:streamlit run app.py
+3.Run the Streamlit app:
+streamlit run app.py
